@@ -3,6 +3,6 @@
 
 myVar=" hello baby how are you 123 "
 
-lentgh=${#myVar[*]}
+lentgh=${#myVar}
 
 echo " length is $lentgh"
